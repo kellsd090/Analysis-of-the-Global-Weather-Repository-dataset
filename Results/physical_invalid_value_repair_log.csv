@@ -1,0 +1,5 @@
+country,location_name,last_updated,feature,original_invalid_value,temporary_value,repaired_value,lower_bound,upper_bound,repair_status
+Antigua and Barbuda,Saint John's,2024-06-11 10:00:00,air_quality_Carbon_Monoxide,-9999.0,,188.66979166666667,0,,repaired_by_city_time_interpolation
+Kiribati,Tarawa,2024-07-17 00:45:00,air_quality_Sulphur_dioxide,-9999.0,,0.050261780104712044,0,,repaired_by_city_time_interpolation
+Saudi Arabia,Riyadh,2025-02-25 13:00:00,air_quality_PM10,-1848.15,,2463.83,0,,repaired_by_city_time_interpolation
+Saudi Arabia,Riyadh,2026-01-25 10:00:00,air_quality_PM10,-998.15,,1831.1646596858639,0,,repaired_by_city_time_interpolation

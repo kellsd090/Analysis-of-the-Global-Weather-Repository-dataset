@@ -4,7 +4,9 @@ A comprehensive weather analytics and forecasting framework built on the **Globa
 
 This project covers the complete workflow from **data preprocessing, exploratory analysis, trend analysis, correlation analysis, forecasting, hybrid prediction models, geographic visualization, to climate clustering**, aiming to understand global weather dynamics and improve long-horizon temperature forecasting.
 
+For a more detailed description of the project methodology, workflow, experimental results, and forecasting framework, please refer to:
 
+[**Full Technical Report**](report/Report%20of%20Weather%20Trend%20Forecasting%20Tech%20Assessment.pdf)
 
 The code is run in Google Colab environment and is trained using CPU or L4 GPU.
 

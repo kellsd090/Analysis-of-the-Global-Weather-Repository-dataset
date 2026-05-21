@@ -209,10 +209,12 @@ Weather-Trend-Forecasting/
 │   ├── geographic_analysis.ipynb
 │   └── climate_clustering.ipynb
 
-├── report
+├── report/
 
 ├── figures/
 
 ├── results/
+
+├── requirments/
 
 └── README.md

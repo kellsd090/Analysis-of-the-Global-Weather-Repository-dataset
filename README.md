@@ -8,6 +8,10 @@ For a more detailed description of the project methodology, workflow, experiment
 
 [**Full Technical Report**](report/Report%20of%20Weather%20Trend%20Forecasting%20Tech%20Assessment.pdf)
 
+Demo video can be found at:
+
+[**Demo Video**](https://drive.google.com/file/d/14WAjcWjJhOnIFYwKtO8x2fcid1-AoQ8d/view?usp=drive_link)
+
 The code is run in Google Colab environment and is trained using CPU or L4 GPU.
 
 ---

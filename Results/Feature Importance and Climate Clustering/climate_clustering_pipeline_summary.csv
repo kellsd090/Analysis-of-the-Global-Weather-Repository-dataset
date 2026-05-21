@@ -1,0 +1,2 @@
+selected_city_count_length_gt400,original_weather_feature_count,raw_engineered_feature_count,filtered_scaled_feature_count,pca_dimension_90_variance,pca_explained_variance_sum,hdbscan_cluster_count_excluding_noise,hdbscan_noise_count
+194,11,204,202,26,0.9812479593763473,13,9

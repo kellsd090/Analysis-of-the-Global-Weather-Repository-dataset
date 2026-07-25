@@ -17,13 +17,13 @@ The code is run in Google Colab environment and is trained using CPU or L4 GPU.
 ## 100-Day Prediction Examples
 
 <p align="center">
-  <img src="Figure/Hybrid%20Model/Final%20=%20HBEATS%20+%20SARIMAX%20+XGBoost/100days%20prediction/Final_corrected_100step_v2_city_112_Mogadishu%20(1).png" width="45%">
   <img src="Figure/Hybrid%20Model/Final%20=%20HBEATS%20+%20SARIMAX%20+XGBoost/100days%20prediction/Final_corrected_100step_v2_city_145_Dili%20(1).png" width="45%">
+  <img src="Figure/Hybrid%20Model/Final%20=%20HBEATS%20+%20SARIMAX%20+XGBoost/100days%20prediction/Final_corrected_100step_v2_city_175_Lima%20(1).png" width="45%">
 </p>
 
 <p align="center">
-  <img src="Figure/Hybrid%20Model/Final%20=%20HBEATS%20+%20SARIMAX%20+XGBoost/100days%20prediction/Final_corrected_100step_v2_city_175_Lima%20(1).png" width="45%">
   <img src="Figure/Hybrid%20Model/Final%20=%20HBEATS%20+%20SARIMAX%20+XGBoost/100days%20prediction/Final_corrected_100step_v2_city_181_Washington_Harbor.png" width="45%">
+  <img src="Figure/Hybrid%20Model/Final%20=%20HBEATS%20+%20SARIMAX%20+XGBoost/100days%20prediction/Final_corrected_100step_v2_city_112_Mogadishu%20(1).png" width="45%">
 </p>
 
 ---

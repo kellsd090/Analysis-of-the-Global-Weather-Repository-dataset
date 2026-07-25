@@ -224,8 +224,11 @@ Automatic machine-learning climate classification for global cities.
 ## Feature Importance and Climate Clustering
 
 <p align="center">
-  <img src="Figure/Feature%20Importance%20and%20Climate%20Clustering/global_climate_region_clusters_world_map_no_noise.png" width="48%">
-  <img src="Figure/Feature%20Importance%20and%20Climate%20Clustering/umap_2d_hdbscan_climate_clusters.png" width="48%">
+  <img src="Figure/Feature%20Importance%20and%20Climate%20Clustering/umap_2d_hdbscan_climate_clusters.png" width="88%">
+</p>
+
+<p align="center">
+  <img src="Figure/Feature%20Importance%20and%20Climate%20Clustering/global_climate_region_clusters_world_map_no_noise.png" width="88%">
 </p>
 
 ---

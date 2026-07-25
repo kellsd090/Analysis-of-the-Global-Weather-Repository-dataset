@@ -14,7 +14,7 @@ Demo video can be found at:
 
 The code is run in Google Colab environment and is trained using CPU or L4 GPU.
 
-## 100-Day Prediction Examples
+## 100-Day Prediction Examples (MAE=1.73)
 
 <p align="center">
   <img src="Figure/Hybrid%20Model/Final%20=%20HBEATS%20+%20SARIMAX%20+XGBoost/100days%20prediction/Final_corrected_100step_v2_city_145_Dili%20(1).png" width="45%">
@@ -26,7 +26,7 @@ The code is run in Google Colab environment and is trained using CPU or L4 GPU.
   <img src="Figure/Hybrid%20Model/Final%20=%20HBEATS%20+%20SARIMAX%20+XGBoost/100days%20prediction/Final_corrected_100step_v2_city_112_Mogadishu%20(1).png" width="45%">
 </p>
 
-## 20-Day Prediction Examples
+## 20-Day Prediction Examples (MAE=1.77)
 
 <p align="center">
   <img src="Figure/Hybrid%20Model/Final%20=%20HBEATS%20+%20SARIMAX%20+XGBoost/20days%20prediction/Final_corrected_20step_v2_city_156_Banjul%20(1).png" width="45%">
